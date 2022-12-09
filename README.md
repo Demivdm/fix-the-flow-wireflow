@@ -7,7 +7,8 @@
 <!-- Het is duidelijk wie de gebruiker is -->
 
 ## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+
+Als gebruiker wil ik mijn gegevens kunnen opslaan, zodat ik mijn gegevens niet hoef te herhalen.
 
 ## Wireflow
 <!-- Toon de wireflow -->
