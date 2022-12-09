@@ -12,7 +12,8 @@ Als gebruiker wil ik mijn gegevens kunnen opslaan, zodat ik mijn gegevens niet h
 ## Wireflow
 ![wireflow sprint 5](https://user-images.githubusercontent.com/112861166/206761195-39f61261-290b-4bc1-9184-32d1bb34498b.jpg)
 
- 
+ Wil je alle schetsen zien? Kijk dan bij [mijn schetsen](https://github.com/Demivdm/fix-the-flow-wireflow/wiki/Schetsen%F0%9F%93%82) !
+
 
 ## Licentie
 
